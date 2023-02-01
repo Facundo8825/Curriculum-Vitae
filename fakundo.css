@@ -1,0 +1,75 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#caja1{
+    width: 70%;
+    margin: 0px auto;
+    border: 1px solid black;
+}
+header{
+    background: lightcyan;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    line-height: 100px;
+    color: black;
+    border: 1px solid;
+}
+
+p{
+    color: purple;
+    width: 300 px;
+}
+h1{
+    color: black;
+    width: 300 px;
+}
+#fafa{
+    float: left;
+    width: calc(80% - 80px);
+    min-height: 500px;
+    color: black;
+    border: 1px solid;
+    padding: 40px;
+}
+aside{
+    float: left;
+    width: 19%;
+    background: lightgreen;
+    min-height: 892px;
+    color: black;
+    border: 1px solid;
+}
+footer{
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+    color: blue;
+}
+.fifi{
+    color: black;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-bottom: 1px solid;
+    padding-bottom: 10px;
+}
+img{
+    margin-left: 350px;
+    margin-top: 100px;
+    display: block;  
+}
+.dp{
+    display: flex;
+    color: black;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-bottom: 1px solid;
+    padding-bottom: 10px;
+}
+ul{
+    list-style: none;
+}
